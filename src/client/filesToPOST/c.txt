@@ -1,0 +1,11 @@
+this is a file called c.txt
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten

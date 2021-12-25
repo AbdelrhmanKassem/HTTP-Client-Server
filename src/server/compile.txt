@@ -1,0 +1,1 @@
+g++ -o myserver server.cpp server.h response.cpp response.h -lpthread

@@ -1,0 +1,1 @@
+g++ -o myclient client.cpp client.h request.cpp request.h
